@@ -1,6 +1,6 @@
 COSC2430-Full-stack-Web-Application
 
-GitHub Repository:
+GitHub Repository: https://github.com/NMTNhan/WebProgramming.git
 
 Video demonstration URL: 
 
