@@ -6,7 +6,7 @@ const threeDots = $('<span></span>').addClass('text-gray-500').text('. . .').css
 
 const pageSelectedStyle = {
     'color': 'white',
-    'background': 'rgb(139, 92, 246)',
+    'background': 'rgb(34,139,34)',
     'cursor': 'default',
 }
 
