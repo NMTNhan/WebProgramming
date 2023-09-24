@@ -33,7 +33,7 @@ import { indexRouter }  from "./src/routes/index.js";
 import { userRouter } from "./src/routes/users.js";
 
 const app = express();
-const PORT = process.env.PORT || 6900;
+const PORT = process.env.PORT || 3000;
 
 // Mongoose + MongoDB
 const MONGODB_URI = "mongodb+srv://quocthai1998:Impetus9998@cluster0.3pzghv5.mongodb.net/?retryWrites=true&w=majority"
