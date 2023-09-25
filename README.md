@@ -25,5 +25,5 @@ Website starting procedures:
 2. Run command "npm install"
 3. Run command "npm run devStart"
 4. Open any browser
-5. Enter "localhost:6900" in the URL bar
+5. Enter "localhost:3000" in the URL bar
 6. Start using the website
